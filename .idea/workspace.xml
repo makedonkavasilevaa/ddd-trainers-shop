@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="656a0bc3-a147-46c9-8552-b3de69b58c9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-managment/src/main/java/mk/ukim/finki/emt/ordermanagment/domain/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-managment/src/main/java/mk/ukim/finki/emt/ordermanagment/domain/model/OrderId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-managment/src/main/java/mk/ukim/finki/emt/ordermanagment/domain/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-managment/src/main/java/mk/ukim/finki/emt/ordermanagment/domain/model/OrderItemId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-managment/src/main/java/mk/ukim/finki/emt/ordermanagment/domain/model/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-managment/src/main/java/mk/ukim/finki/emt/ordermanagment/domain/valueObjects/TrainersId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/base/AbstractEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/base/DomainObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/base/DomainObjectId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/base/ValueObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/financial/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-kernel/src/main/java/mk/ukim/finki/emt/sharedkernel/domain/financial/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainers-catalog/src/main/java/mk/ukim/finki/emt/trainerscatalog/domain/models/Trainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainers-catalog/src/main/java/mk/ukim/finki/emt/trainerscatalog/domain/models/TrainersId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainers-catalog/src/main/java/mk/ukim/finki/emt/trainerscatalog/domain/valueObjects/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainers-catalog/src/main/java/mk/ukim/finki/emt/trainerscatalog/domain/valueObjects/Stock.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2goeULPZY7ndYIPmVzHadPsiNEQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.OrderManagmentApplication.executor": "Run",
+    "Spring Boot.TrainersCatalogApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mk.ukim.finki.emt.sharedkernel.domain.base" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="mk.ukim.finki.emt.trainerscatalog.domain.valueObjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderManagmentApplication">
+    <configuration name="OrderManagmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-managment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mk.ukim.finki.emt.ordermanagment.OrderManagmentApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mk.ukim.finki.emt.ordermanagment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainersCatalogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="trainers-catalog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mk.ukim.finki.emt.trainerscatalog.TrainersCatalogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderManagmentApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.16-jbr_dcevm-11.0.16-f644763e9732-a11e3e72" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-22-openjdk-22-f644763e9732-8c5c9ae5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="656a0bc3-a147-46c9-8552-b3de69b58c9e" name="Changes" comment="" />
+      <created>1716368372950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716368372950</updated>
+      <workItem from="1716368374185" duration="54000" />
+      <workItem from="1716368462889" duration="98000" />
+      <workItem from="1716368614705" duration="620000" />
+      <workItem from="1716369252299" duration="3000" />
+      <workItem from="1716369309753" duration="5197000" />
+      <workItem from="1716377574281" duration="3220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
