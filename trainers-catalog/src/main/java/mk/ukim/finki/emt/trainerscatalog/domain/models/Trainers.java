@@ -20,4 +20,20 @@ public class Trainers extends AbstractEntity<TrainersId> {
     private Size trainersSize;
 
     private Money trainersPrice;
+
+    private Trainers() {
+        super(TrainersId.randomId(TrainersId.class));
+    }
+
+
+    public static Trainers build(String trainersName, Stock trainersStock, String trainersColor, Size trainersSize, Money trainersPrice) {
+        Trainers trainers = new Trainers();
+        trainers.trainersName = trainersName;
+        trainers.trainersColor = trainersColor;
+        trainers.trainersPrice = trainersPrice;
+        trainers.trainersStock = trainersStock;
+        trainers.trainersSize = trainersSize;
+        return trainers;
+    }
+
 }
